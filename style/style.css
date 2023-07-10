@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-container{
+    background-color: black;
+    color: white;
+    list-style: none;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+    
+}
+.logo-photo{
+    width: 120px;
+}
+.manus{
+    display: flex;
+    
+}
+.item{
+    margin-right: 10px;
+    padding-right: 10px;
+}
