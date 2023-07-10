@@ -75,3 +75,51 @@
     padding: 20px;
     text-align: center;
 }
+
+.service-container{
+    /* background-color: black; */
+    /* display: flex; */
+}
+.box1{
+    border-top: 10px gray;
+    border-left: 10px gray;
+    width: 250px;
+    height: 280px;
+    box-shadow: 5px 5px 15px gray;
+    background-color: black;
+    padding: 15px;
+    color: white;
+    
+}
+.boximg1{
+    width: 70px;
+    /* align-items: center; */
+    /* align-content: center; */
+    /* box-shadow: 4px 4px 15px gray; */
+}
+#box-btn{
+    background-color: gray;
+    margin-top: 10px;
+    /* align-items: center; */
+}
+.box-title{
+    padding: 10px;
+
+}
+.box-description{
+    padding: 5px;
+}
+.service-container{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+    
+
+}
+.hr{
+    color: red;
+}
+.ending-footer{
+    text-align: center;
+}
